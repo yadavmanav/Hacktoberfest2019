@@ -6,5 +6,4 @@
     margin: 50px auto;
 background:linear-gradient(35deg,#CCFFFF,#FFCCCC);
   }
-
 </style>
